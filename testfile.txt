@@ -1,0 +1,74 @@
+1. Provisioning a Linux to Install Zabbix Server
+2. Download and Install The Zabbix Repository
+3. Install Zabbix Server, Frontend and Agent
+4. Create the Initial Database
+5. Configure the PHP front end
+6. Start Server and Agent Processes
+7. Log in and Configure Zabbix Server Front End
+8. Configure a Domain name for the Zabbix Server
+9. Configure SSL for Zabbix Server Front end
+10. Overview So Far
+11. Install Zabbix Agent on Same Network as Zabbix Server
+12. Install Zabbix Agent (Active) on a Windows Host Behind a Firewall
+13. Enable Passive Checks on the Windows Host Behind the Firewall
+14. Install Zabbix Agent on a Mac OSX Behind a Firewall
+15. Install Zabbix Agent on a VM Behind a Firewall
+16. Zabbix Agent Auto Registration
+17. Install and Configure Zabbix Proxy
+18. Configure Zabbix Agent on the Zabbix Proxy
+19. Reconfigure Zabbix Agents to use Zabbix Proxy
+20. Ensure Zabbix Agent and/or Proxy Auto Starts After Reboot
+21. Enable PSK Encryption for Zabbix Agents
+22. Enable PSK Encryption for Zabbix Proxy
+23. Creating Host Items
+24. Creating Host Triggers
+25. Creating Host Graphs
+26. Use The Email Media Type And Create A Send Only SMTP Server
+27. Convert Host Items, Triggers and Graphs To A Template
+28. Monitoring Screens
+29. Template Defined Screens
+30. Creating a Network Map
+31. Reading Windows Event Logs
+32. Item Preprocessing with Regex
+33. Item Preprocessing with JavaScript
+34. Item Cloning to Create a PCI DSS Windows Template
+35. Importing Templates
+36. Slack Media Type
+37. Telegram Media Type
+38. SMS Media Type using AWS SNS
+39. Customising Trigger Alert Messages with Macros
+40. Add Disk Space History Graph To OS Linux Template Screen
+41. Trigger Prototypes and Triggering within a Range Flapping
+43. Remote HTTP monitoring using Web Scenarios
+44. JSON API Monitoring with the HTTP Agent Item
+45. Execute Bat File on Remote Windows Host with Zabbix Agent
+46. Execute Python Script on Remote Linux Host with Zabbix Agent
+47. Using the 'Zabbix Get' Command
+48. Check SSL Certificate Expiry on Websites using Custom Script and system.run
+49. Log File Monitoring - Nginx Proxy HTTP Status Codes
+50. Dependent Items
+53. UserParameters
+54. Execute Powershell Scripts to Check Windows Updates
+55. Calculated Items
+56. Calculated Items in Low Level Discovery Rules
+57. Creating Custom Low Level Discovery Rules - Part 1
+58. Creating Custom Low Level Discovery Rules - Part 2
+59. Zabbix Sender and Trapper - Intro and Example 1 - Cron
+60. Zabbix Sender and Trapper - Example 2 - Screen
+61. Setup MySQL Monitoring
+62. Grafana Zabbix Plugin
+63. Setup SNMP Hosts in Zabbix
+64. Query SNMP Hosts using OIDs
+65. Query SNMP Hosts using MIBs
+66. Setup LLD Discovery Rules and Actions to Auto Configure SNMP Devices
+67. Add a CISCO SNMP Enabled Network Switch
+68. Setup SNMP Traps
+69. Triggers on SNMP Traps
+70. Convert MIBs Files to Zabbix Templates
+71. Prometheus Node Exporter Introduction and Install as a Service
+72. Prometheus Node Exporter Manual Host Configuration
+73. Setup LLD Discovery and Actions to Auto Configure Prometheus Node Exporters
+74. Zabbix API Introduction and Examples
+75. Zabbix API Test Tool
+76. Zabbix API Python Example
+77. Zabbix API User Permissions
